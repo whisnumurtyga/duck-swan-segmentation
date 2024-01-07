@@ -1,0 +1,6 @@
+path: "/content/drive/MyDrive/Tubes Viskom/data"
+train: "images/train"
+val: "images/val"
+
+nc: 2
+names: ['duck', 'swan']

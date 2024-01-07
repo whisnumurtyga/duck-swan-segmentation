@@ -1,0 +1,6 @@
+path: "D:/Semester 5/Visi Komputer/Final Project/data"
+train: "images/train"
+val: "images/val"
+
+nc: 2
+names: ['duck', 'swan']
